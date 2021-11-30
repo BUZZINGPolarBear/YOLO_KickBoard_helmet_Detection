@@ -14,3 +14,5 @@ Weight를 부여받아 Raspberry Pi Camera를 연결하여 실제 단속 카메�
 * 이미지 라벨링 쉽게하기! Labelme: <https://hipolarbear.tistory.com/37>
 * YOLO Darknet을 학습해야 하는데 XML이나 Json으로 라벨을 붙인 바보(나)를 위한 Roboflow!: <https://hipolarbear.tistory.com/38>
 * (상) Colab과 Darknet으로 YOLO를 학습시켜보자!: <https://hipolarbear.tistory.com/39>
+* (중) Colab과 Darknet으로 YOLO를 학습시켜보자!: <https://hipolarbear.tistory.com/40>
+* (하) Colab과 Darknet으로 YOLO를 학습시켜보자!: <https://hipolarbear.tistory.com/41>
